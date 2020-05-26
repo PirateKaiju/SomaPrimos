@@ -1,4 +1,4 @@
-#encoding:utf-8
+#coding:utf-8
 def sum_prime_dp (n):
     #This implements the concept of dinamic programming
     #Strategy: First mark the primes, then sum it up
